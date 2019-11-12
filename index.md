@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Enhancing Bio-logging in Ecology Research (EBER) Initiative
 
-You can use the [editor on GitHub](https://github.com/mattgaidica/eber/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Problem Statement
+The use of miniaturized, animal-borne bio-loggers to make physiological and environmental measurements from free-ranging animals is radically transforming scientific capabilities. Technological strides in battery, computation, memory, and sensor technology have supported a suite of bio-logging tools that are not only smaller and longer-lasting, but provide multi-featured, high-resolution data on hemodynamic, metabolic, and electrophysiological variables (Williams et al. 2019). However, even bio-loggers that begin as academic projects have quickly commercialized (Massot et al. 2019) making them expensive and proprietary impeding the broader research community from engaging population studies and standardizing measurement and analysis techniques.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  Massot, B, Arthaud, S et al. (2019) ONEIROS, a new miniature standalone device for recording sleep electrophysiology, physiology, temperatures and behavior in the lab and field. J Neurosci Methods 316:103–116.
+  Williams, HJ, Taylor, LA et al. (2019) Optimizing the use of bio-loggers for movement ecology research. J Anim Ecol 
+  Yoda, K, Sato, K et al. (1999) Precise monitoring of porpoising behaviour of Adelie penguins determined using acceleration data loggers. Journal of Experimental Biology 202:3121–3126.
 
-### Markdown
+### Primary Objectives
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. _Standardize_ data collection and analysis methods
+2. _Communicate_ approaches and insights
+3. _Innovate_ tools and technologies
 
-```markdown
-Syntax highlighted code block
+### Get Involved
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mattgaidica/eber/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Want to learn more about bio-logging? Visit the [International Bio-logging Society](https://www.bio-logging.net) or [contact me](http://gaidi.ca) for more information.
