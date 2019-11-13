@@ -9,9 +9,9 @@ The use of miniaturized, animal-borne bio-loggers to make physiological and envi
 
 ### Primary Objectives
 
-1. _Standardize_ data collection and analysis methods
-2. _Communicate_ approaches and insights
-3. _Innovate_ tools and technologies
+1. _Standardize_ data collection and analysis methods.
+2. _Communicate_ approaches and insights.
+3. _Innovate_ tools and technologies.
 
 ### Get Involved
 
